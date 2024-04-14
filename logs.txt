@@ -1,3 +1,27 @@
+commit 7d0139b83cf73f9f2a21af67caf533727c4c3700
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 14:06:53 2024 +0200
+
+    Final commit
+
+commit e2970b9eda994f15c40c764c9fcfb9139311fd19
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 14:03:51 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 457c4c19dae4201f8d1aa1b77261075316b76140
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 14:03:26 2024 +0200
+
+    DA
+
+commit 20bf4e8eb6d0e964752a7f77aefd6aa1d45e0742
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 14:00:17 2024 +0200
+
+    Final commit
+
 commit f4996f55f9b2edf0f50cc20c293a217555ed35d8
 Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
 Date:   Sun Apr 14 13:46:05 2024 +0200
