@@ -78,7 +78,7 @@ hint: To abort and get back to the state before "git rebase", run "git rebase --
 Could not apply fb64fd5... Call method makeBigStringFrom in main class
 
 - Se pojavi greska pri izvrsuvanje na git rebase master, pri sto manuelno vlegov vo SILab1Main.java i ja izbrisav - System.out.println(SILab1_1.filterOddLengthStrings(list)); sto se naogjase na 16ta linija koga ja  pravevme promenata vo branch bug1.
-- Bese iskoristeno Fast-forward merging
+- Bese iskoristeno Fast-forward merging.
 
 24. git checkout master
 
