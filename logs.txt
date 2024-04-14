@@ -1,3 +1,15 @@
+commit 57fe757c3acacf4f71819ae6f17c37067570b463
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 14:11:17 2024 +0200
+
+    Initial commit
+
+commit 657ea4e23d076cd5e30dad6a2ace7dc964eb502c
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 14:07:33 2024 +0200
+
+    Final commit
+
 commit 7d0139b83cf73f9f2a21af67caf533727c4c3700
 Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
 Date:   Sun Apr 14 14:06:53 2024 +0200
