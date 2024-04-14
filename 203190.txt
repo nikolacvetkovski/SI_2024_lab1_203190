@@ -1,0 +1,25 @@
+4. mkdir SI_2024_lab1_203190
+cd SI_2024_lab1_203190
+git init
+
+5. git remote add origin https://github.com/nikolacvetkovski/SI_2024_lab1_203190.git
+
+6. nano README.md
+git add README.md
+git commit -m "Inital commit"
+
+7. git add *.java
+git commit -m "Add starter code"
+
+8. git add SILab1_1.java
+git commit -m "Fixed Wrong Condition in filterOddLengthStrings"
+git add SILab1_2.java
+git commit -m "Fixed Wrong Condition in makeBigStringFrom"
+git push origin master
+
+28. git log > logs.txt
+git commit -m "Final commit"
+git add 203190.txt
+git commit -m "Final commit"
+
+29. git push --all
