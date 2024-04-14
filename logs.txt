@@ -1,0 +1,42 @@
+commit 7ffe10f129184ebd671772a52bd4695f6c77b508
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 12:29:03 2024 +0200
+
+    Fixed Wrong Condition in makeBigStringFrom
+
+commit 29b0e592107ac74d4ea4c0c0bf20ebf2ff907dc1
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 12:28:37 2024 +0200
+
+    Fixed Wrong Condition in makeBigStringFrom
+
+commit e2571b6f9ef299eccc74963759461386d96ea76b
+Merge: f14126e aa44d95
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 12:20:48 2024 +0200
+
+    Initial commit
+
+commit f14126e1e9db2fe2a0cc78b7bb984ae4800142ae
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 12:13:04 2024 +0200
+
+    Fixed Wrong Condition in filterOddLengthStrings
+
+commit 5d562d4958ccb99f71e0e7642cd8e742a2dbe34c
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 11:24:59 2024 +0200
+
+    Add starter code
+
+commit aa84d25ec0d42ccc093fa56445254a3a0d3223b1
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 11:12:03 2024 +0200
+
+    Inital commit
+
+commit aa44d955160919a1f176dbe12f50c4691e4316da
+Author: nikolacvetkovski <126682110+nikolacvetkovski@users.noreply.github.com>
+Date:   Sun Apr 14 10:51:05 2024 +0200
+
+    Initial commit
