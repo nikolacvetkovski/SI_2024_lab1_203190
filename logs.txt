@@ -1,3 +1,57 @@
+commit f4996f55f9b2edf0f50cc20c293a217555ed35d8
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 13:46:05 2024 +0200
+
+    Final commit
+
+commit a33c8d49c8aea504e5e7a8dc747449c819e40893
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 13:44:37 2024 +0200
+
+    Final commit
+
+commit 5ad3b6abd403100923dc6b7960defaea4bf6a2e4
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 13:13:31 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 0f3018024537f46c38723f0888950c8b7d6b1cb3
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 13:00:37 2024 +0200
+
+    Fixed Wrong Condition in makeBigStringFrom
+
+commit bcc20fb903f8e1a2367662c606a8f2f7110a25c5
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 13:11:48 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 94b8ea23d51b2a1992fa46d199fe20e6d9dbfe6b
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 13:06:19 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 381b2ad7dfa7ed58ef100b76b6b4df62c98f00ff
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 12:59:34 2024 +0200
+
+    Fixed Wrong Condition in filterOddLengthStrings
+
+commit 5d6aded1df7e70fbe876daf25917f279a01967c0
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 12:43:53 2024 +0200
+
+    Final commit
+
+commit a4b62b29fa4495d9b28a7ca2999d304b5acd9f07
+Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
+Date:   Sun Apr 14 12:43:36 2024 +0200
+
+    Final commit
+
 commit 7ffe10f129184ebd671772a52bd4695f6c77b508
 Author: Nikola Cvetkovski <cvetkovski.nikola2001@gmail.com>
 Date:   Sun Apr 14 12:29:03 2024 +0200
