@@ -97,6 +97,7 @@ Fast-forward
 
 -se sluci error pri git push --all
 -morav racno da izbrisam vo SILab1Main.java
+-se popravi greskata i mi dozvoli da napravam push
 
 27. git push --force --all
 
